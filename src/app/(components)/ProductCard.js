@@ -7,6 +7,7 @@ export default function ProductCard({ imgLink, title, text }) {
         <p class="card-text">
           {text}
         </p>
+        <div class="btn btn-success">Add to Cart</div>
       </div>
     </div>
   </>;

@@ -7,9 +7,8 @@ import ProductCard from "../(components)/ProductCard";
 
 export default function HomePage() {
   return <>
-    <Navbar/>
+    <Navbar />
     <Banner />
-    <Carousel/>
 
     <div className="container">
       <div class="row row-cols-1 row-cols-md-4 g-4">

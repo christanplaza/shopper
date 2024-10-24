@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "name": "Logitech MX Master 3S",
+    "description": "Meet MX Master 3S, an iconic mouse remastered.",
+    "image": "https://www.itech.ph/wp-content/uploads/2022/07/Logitech-MX-Master-3S-Performance-Wireless-Mouse-Graphite.jpg"
+  },
+  {
+    "id": 2,
+    "name": "WH-1000XM5 Wireless Noise-Canceling Headphones",
+    "description": "The best noise canceling3 with two high-performance processors and eight microphones.",
+    "image": "https://www.sony.com.ph/image/86ef18640c4199cc7ce7150a5143460a?fmt=png-alpha&wid=660&hei=660"
+  },
+  {
+    "id": 3,
+    "name": "Apple iPhone 14 Pro",
+    "description": "Experience the new A16 Bionic chip and an incredible camera system.",
+    "image": "https://www.kimstore.com/cdn/shop/files/MOBAPP0493.png?v=1726204960&width=1080"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy S23 Ultra",
+    "description": "A powerhouse smartphone with advanced features and performance.",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/ph/2302/gallery/ph-galaxy-s23-s918-sm-s918bzkqphl-534856231?$650_519_PNG$"
+  },
+  {
+    "id": 5,
+    "name": "Dell XPS 13 Laptop",
+    "description": "A sleek and powerful ultrabook with a stunning display.",
+    "image": "https://benson.ph/cdn/shop/products/xs9320nt-xnb-shot-5-1-sl.jpg?v=1674270682&width=4000"
+  },
+  {
+    "id": 6,
+    "name": "Sony PlayStation 5",
+    "description": "The latest generation of gaming consoles from Sony.",
+    "image": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/9/191554_2024_1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "NVIDIA RTX 4090 Graphics Card",
+    "description": "Top-tier performance for gaming and creative work.",
+    "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/10/Nvidia-GeForce-RTX-4090-7-scaled.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Bose QuietComfort 45",
+    "description": "Comfortable, noise-canceling headphones for all-day listening.",
+    "image": "https://business.shoppable.ph/_next/image?url=https%3A%2F%2Fshoppable-dev.s3.amazonaws.com%2Ffd4c5cd4-ed58-4952-9008-bcd01ac9aa80.jpg&w=1080&q=75"
+  },
+  {
+    "id": 9,
+    "name": "Apple MacBook Air M2",
+    "description": "Incredibly thin and powerful with the new M2 chip.",
+    "image": "https://switch.com.ph/cdn/shop/products/MacBook_Air_M2_Starlight_PDP_Image_Position-1__ROSA.jpg?v=1679563714&width=2000"
+  },
+  {
+    "id": 10,
+    "name": "Google Pixel 7",
+    "description": "Pure Google experience with excellent camera performance.",
+    "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-126764/Google-Pixel-7-Pro_featured-image-packshot-review.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Microsoft Surface Pro 9",
+    "description": "A versatile 2-in-1 tablet and laptop with Windows 11.",
+    "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-151145/Microsoft-Surface-Pro-9-_featured-image-packshot-review.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Canon EOS R5 Mirrorless Camera",
+    "description": "Professional-grade camera with 8K video and advanced autofocus.",
+    "image": "https://ph.canon/media/image/2020/07/04/862a1f43feed4fab85897aee45b6324c_R5_Front_BODY.png"
+  },
+  {
+    "id": 13,
+    "name": "DJI Mavic 3 Drone",
+    "description": "Capture stunning aerial footage with a high-resolution camera.",
+    "image": "https://tech101.com.ph/wp-content/uploads/2023/02/6ee9b439dd97762d2efa6ed163790409@ultra.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Sony A7 IV Mirrorless Camera",
+    "description": "A versatile full-frame camera for photography and video.",
+    "image": "https://www.shuttermaster.com.ph/cdn/shop/products/Sonya7IVMirrorlessCamera_BodyOnly_-front_512x.jpg?v=1655947319"
+  },
+  {
+    "id": 15,
+    "name": "ASUS ROG Strix G15 Gaming Laptop",
+    "description": "High-performance gaming laptop with NVIDIA RTX graphics.",
+    "image": "https://dlcdnwebimgs.asus.com/files/media/8B74E7EE-B66A-4420-894E-3C3B980312EE/v1/img/performance/stirx-g-2022.png"
+  },
+  {
+    "id": 16,
+    "name": "Apple iPad Pro 12.9\"",
+    "description": "The ultimate tablet for creativity and productivity.",
+    "image": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/1/8/185724_2022.jpg?auto=webp&format=pjpg&width=640"
+  },
+  {
+    "id": 17,
+    "name": "Sony WH-CH710N Wireless Headphones",
+    "description": "Affordable wireless headphones with noise cancellation.",
+    "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/wh-ch720_Primary_image?$categorypdpnav$&fmt=png-alpha"
+  },
+  {
+    "id": 18,
+    "name": "Fitbit Charge 5",
+    "description": "Advanced fitness tracker with built-in GPS and health monitoring.",
+    "image": "https://down-ph.img.susercontent.com/file/9144e9ec0bf86784a1496adbf0fbfa8f"
+  },
+  {
+    "id": 19,
+    "name": "Garmin Fenix 6 Pro Smartwatch",
+    "description": "Rugged GPS smartwatch for outdoor enthusiasts.",
+    "image": "https://ph.garmin.com/m/ph/g/products/fenix-6-pro-solar-black-gray-cf-xl.png"
+  },
+  {
+    "id": 20,
+    "name": "Apple Watch Series 8",
+    "description": "Advanced smartwatch with fitness and health features.",
+    "image": "https://switch.com.ph/cdn/shop/products/ROSA_Apple_Watch_Series_8_GPS_45mm_Midnight_Aluminum_Midnight_Sport_Band_PDP_Image_Position-1.jpg?v=1663749307"
+  },
+  {
+    "id": 21,
+    "name": "GoPro HERO11 Black",
+    "description": "Action camera with incredible image quality and durability.",
+    "image": "https://switch.com.ph/cdn/shop/products/ROSA_Apple_Watch_Series_8_GPS_45mm_Midnight_Aluminum_Midnight_Sport_Band_PDP_Image_Position-1.jpg?v=1663749307"
+  },
+  {
+    "id": 22,
+    "name": "Samsung Galaxy Watch 5",
+    "description": "Smartwatch with advanced health monitoring and fitness tracking.",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/ph/2208/gallery/ph-galaxy-watch5-44mm-sm-r910nzaaasa-533197643?$650_519_PNG$"
+  },
+  {
+    "id": 23,
+    "name": "Oculus Quest 2",
+    "description": "Wireless VR headset with an immersive experience.",
+    "image": "https://i5.walmartimages.com/seo/Meta-Oculus-Quest-2-64GB-Advanced-All-In-One-Virtual-Reality-Headset_16a9974e-a5b0-4cad-a98e-730148409bef.3e8858a1d3beb01ff2fbc79a880beedf.jpeg"
+  },
+  {
+    "id": 24,
+    "name": "HyperX Cloud II Gaming Headset",
+    "description": "Comfortable and durable headset with 7.1 surround sound.",
+    "image": "https://hyperx.com/cdn/shop/files/hyperx_cloud_ii_red_2_main_mixer.jpg?v=1721075774"
+  },
+  {
+    "id": 25,
+    "name": "Razer DeathAdder V2",
+    "description": "Ergonomic gaming mouse with ultra-fast response.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYAknMDSSMYBtB5BMtLFGR_dIlWKtbC53-AA&s"
+  },
+  {
+    "id": 26,
+    "name": "SteelSeries Arctis 7 Wireless Headset",
+    "description": "High-quality sound with a comfortable design for gaming.",
+    "image": "https://m.media-amazon.com/images/I/51nhuBhbaeL.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Corsair K95 RGB Platinum Keyboard",
+    "description": "Mechanical keyboard with customizable RGB lighting.",
+    "image": "https://dynaquestpc.com/cdn/shop/products/500x_4eb5cce5-f33e-40f5-b5c6-3a68468552c0.jpg?v=1636612063&width=500"
+  },
+  {
+    "id": 28,
+    "name": "Logitech G Pro Wireless Gaming Mouse",
+    "description": "Lightweight, high-performance wireless gaming mouse.",
+    "image": "https://ecommerce.datablitz.com.ph/cdn/shop/files/pro2-lightspeed-black-new-gallery1.jpg?v=1727409157"
+  },
+  {
+    "id": 29,
+    "name": "Apple AirPods Pro (2nd Gen)",
+    "description": "Wireless earbuds with active noise cancellation and spatial audio.",
+    "image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111851_sp880-airpods-Pro-2nd-gen.png"
+  },
+  {
+    "id": 30,
+    "name": "Sony Alpha 1 Mirrorless Camera",
+    "description": "Flagship full-frame camera with 8K video and fast autofocus.",
+    "image": "https://ph-live-01.slatic.net/p/01d68798f466dac78aea77e23ce1ebf1.jpg"
+  },
+  {
+    "id": 31,
+    "name": "LG C2 OLED TV",
+    "description": "Stunning OLED display with perfect blacks and vivid colors.",
+    "image": "https://www.lg.com/cac/images/tv-barra-de-sonido/md07551525/gallery/OLED55C2PSA_PTO_1100x730_NoAppleTV_toCheck.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Samsung Odyssey G9 Gaming Monitor",
+    "description": "Ultra-wide curved monitor for immersive gaming.",
+    "image": "https://benson.ph/cdn/shop/products/ph-odyssey-g9-lc49g95tssexxp-lperspectivewhite-307878004_1024x.png?v=1676513574"
+  },
+  {
+    "id": 33,
+    "name": "Sony X90J 65\" 4K TV",
+    "description": "Premium 4K TV with excellent picture quality and features.",
+    "image": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/1/7/174653_2022_1_1.jpg?auto=webp&format=pjpg&width=640"
+  },
+  {
+    "id": 34,
+    "name": "Amazon Echo Studio",
+    "description": "High-fidelity smart speaker with Alexa.",
+    "image": "https://static.qantasloyalty.com/store-static-assets/desktop/fuxlzkff8t2zmpdjfeuiq2kl8pw.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Sonos Beam Soundbar",
+    "description": "Compact soundbar with excellent audio quality and smart features.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61bJ59nkmaL.jpg"
+  },
+  {
+    "id": 36,
+    "name": "JBL Flip 6 Bluetooth Speaker",
+    "description": "Portable waterproof speaker with great sound quality.",
+    "image": "https://jblstore.com.ph/cdn/shop/files/JBLFlip6Black_600x.png?v=1723021792"
+  },
+  {
+    "id": 37,
+    "name": "Roku Ultra Streaming Device",
+    "description": "Powerful 4K streaming device with voice control.",
+    "image": "https://ph-live-01.slatic.net/p/f80942e6a05f59a5e430541a9591f9e1.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Apple TV 4K",
+    "description": "Streaming box with access to all your favorite content and services.",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/apple-tv-4k-hero-select-202210_FMT_WHH?wid=640&hei=600&fmt=jpeg&qlt=90&.v=1664896361164"
+  },
+  {
+    "id": 39,
+    "name": "Google Nest Audio",
+    "description": "Smart speaker with great sound quality and Google Assistant.",
+    "image": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/8/189828_2023_1.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Philips Hue Smart Bulb Starter Kit",
+    "description": "Smart lighting system with customizable colors and brightness.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYPAbbVI4ZFHhXvRH58Vws6dtmZctPilGZcA&s"
+  },
+  {
+    "id": 41,
+    "name": "Dyson V15 Detect Cordless Vacuum",
+    "description": "Powerful cordless vacuum with advanced laser dust detection.",
+    "image": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/leap-petite-global/markets/malaysia/dynamic-media/pdp/sticks/V15abs-attachments-min.png?fmt=png-alpha&scl=1&fmt=png-alpha"
+  },
+  {
+    "id": 42,
+    "name": "iRobot Roomba j7+ Robot Vacuum",
+    "description": "Advanced robot vacuum with smart mapping and automatic dirt disposal.",
+    "image": "https://m.media-amazon.com/images/I/71NwZ7H+zEL.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Instant Pot Duo 7-in-1",
+    "description": "Versatile multi-cooker with seven functions in one appliance.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61JaLu6cWfL.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Breville Barista Express Espresso Machine",
+    "description": "Make cafe-quality espresso at home with ease.",
+    "image": "https://www.breville.com.ph/image/catalog/catalog/barista-express/product-dna/1-and-5-dna-barista-express.jpeg"
+  },
+  {
+    "id": 45,
+    "name": "KitchenAid Artisan Stand Mixer",
+    "description": "Iconic stand mixer with powerful performance for baking.",
+    "image": "https://www.kitchenaid.ph/is/image/content/dam/global/shot-lists/2012/p120252/additional-p120252-9z.tif"
+  },
+  {
+    "id": 46,
+    "name": "Nespresso Vertuo Coffee Maker",
+    "description": "Delicious coffee and espresso with the push of a button.",
+    "image": "https://www.nespresso.ph/media/catalog/product/cache/82181b209193d09e6d64967e8240ef4c/5/0/500x500_white.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Anova Precision Cooker",
+    "description": "Sous vide cooker for perfect cooking precision.",
+    "image": "https://ph-live-01.slatic.net/original/a018289caa44d6ca84f6eb8bb3fec63d.jpg"
+  }
+]
